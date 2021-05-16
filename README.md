@@ -82,8 +82,11 @@ Its easy to maintain and debug a refactored code and prevents any coding discrep
 3) we are printing the outputs to excel sheet in a for loop outside, instead of doing it after each ticker output calculation which in turn will help in increasing the processing speed.
 4) when we compare the processing speeds before refactoring and after refactoring the processing speed increased.
 
+The below two pictures are the refactored code and the original code processing speeds for the 2017 stocks
 ![image](https://github.com/vijayabme/stock-analysis/blob/main/VBA_Challenge_2017.png)
 ![image](https://github.com/vijayabme/stock-analysis/blob/main/VBA_Challenge_2017_original.png)
+
+The below two pictures are the refactored code and the original code processing speeds for the 2018 stocks
 ![image](https://github.com/vijayabme/stock-analysis/blob/main/VBA_Challenge_2018.png)
 ![image](https://github.com/vijayabme/stock-analysis/blob/main/VBA_Challenge_2018_original.png)
 

@@ -1,7 +1,7 @@
 # stock-analysis
 ## Overview of The Project
 ### Purpose
-Steve's parents are interested in investing their savings in green energy stocks. Without doing much research they decided to invest all their money in DAQO New Energy Corp which makes silicon wafers for solar panels and asked Steve for help. Steve would like to help his parents diversisy their investment. The idea is to help Steve analyze some of the green energy stocks and help his parents make a well informed decision. In this I am using VBA script to automate the data analysis in excel. 
+Steve's parents are interested in investing their savings in green energy stocks. Without doing much research they decided to invest all their money in DAQO New Energy Corp which makes silicon wafers for solar panels and asked Steve for help. Steve would like to help his parents diversisy their investment instead of investing everything in DAQO. The idea is to help Steve analyze some of the green energy stocks and help his parents make a well informed decision. In this I am using VBA script to automate the data analysis in excel. 
 
 ## Results
 ### Analaysis outcome based on 2017 and 2018 stock market

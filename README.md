@@ -6,7 +6,7 @@ Steve's parents are interested in investing their savings in green energy stocks
 ## Results
 ### Analaysis outcome based on 2017 and 2018 stock market
 Based on the DAQO analysis, the stock dropped 63% in 2018 and from 2017 it dropped by 262%. Steve would like to provide better stock options for his parents. So we analyze all the green stocks that Steve listed for both 2017 and 2018. In 2017 lot of stocks had positive returns. But in 2018 only ENPH and RUN had positive returns with RUN actually improving its return by 78% from 2017. TERP had negative return in both years but it increased by 2% from 2017 to 2018 and the total daily volume also increased from 2017 to 2018. So investing in ENPH, RUN and TERP might be a better option for Steve's parents instead of DAQO.
-
+![image]()
 #Add figure link
 ### Refactoring the code
 
@@ -81,7 +81,9 @@ Its easy to maintain and debug a refactored code and prevents any coding discrep
 3) we are printing the outputs to excel sheet in a for loop outside, instead of doing it after each ticker output calculation which in turn will help in increasing the processing speed.
 4) when we compare the processing speeds before refactoring and after refactoring the processing speed increased.
 
-# Add images
+![image]()
+![image]()
+#Add images
 
 
 

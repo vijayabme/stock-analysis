@@ -83,11 +83,20 @@ Its easy to maintain and debug a refactored code and prevents any coding discrep
 4) when we compare the processing speeds before refactoring and after refactoring the processing speed increased.
 
 The below two pictures are the refactored code and the original code processing speeds for the 2017 stocks
+
+###### Refactored code run time
 ![image](https://github.com/vijayabme/stock-analysis/blob/main/VBA_Challenge_2017.png)
+
+###### original code run time
 ![image](https://github.com/vijayabme/stock-analysis/blob/main/VBA_Challenge_2017_original.png)
 
 The below two pictures are the refactored code and the original code processing speeds for the 2018 stocks
+
+
+###### Refactored code run time
 ![image](https://github.com/vijayabme/stock-analysis/blob/main/VBA_Challenge_2018.png)
+
+###### original code run time
 ![image](https://github.com/vijayabme/stock-analysis/blob/main/VBA_Challenge_2018_original.png)
 
 
